@@ -1,9 +1,9 @@
 # react router study
 
 ## 准备工作
-cd react-router-study
-npm install
-npm run build
+### cd react-router-study
+### npm install
+### npm run build
 
 ## 知识点
 1. hashHistory/browerHistory
